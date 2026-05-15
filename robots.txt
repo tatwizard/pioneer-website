@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tatwizard.github.io/pioneer-website/sitemap.xml
